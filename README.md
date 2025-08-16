@@ -5,6 +5,15 @@ FIFO, LRU, OPT, Clock, LPR 알고리즘의 동작을 시각화하고 성능을 �
 
 ---
 
+## 🖼️ 시뮬레이션 결과 미리보기
+
+<p align="center">
+  <img src="screenshots/fifo_example.png" width="600" />
+  <br/><i>FIFO 알고리즘 실행 예시</i>
+</p>
+
+---
+
 ## 📌 프로젝트 개요
 
 - 운영체제 수업에서 다룬 **가상 메모리 구조 및 페이지 교체 정책**에 대한 이론을 바탕으로, 직접 알고리즘을 구현하고 GUI 기반 시뮬레이터를 제작하였습니다.
@@ -66,15 +75,6 @@ java -cp . --module-path /path/to/javafx-sdk/lib --add-modules javafx.controls M
 
 - Java 11
 - JavaFX (GUI 구현)
-
----
-
-## 🖼️ 시뮬레이션 결과 미리보기
-
-<p align="center">
-  <img src="screenshots/fifo_example.png" width="600" />
-  <br/><i>FIFO 알고리즘 실행 예시</i>
-</p>
 
 ---
 
