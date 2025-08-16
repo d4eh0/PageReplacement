@@ -71,19 +71,10 @@ java -cp . --module-path /path/to/javafx-sdk/lib --add-modules javafx.controls M
 
 ## 🖼️ 시뮬레이션 결과 미리보기
 
-> 아래는 각 알고리즘 실행 시 동작 결과를 보여주는 스크린샷 예시입니다.
-
 <p align="center">
   <img src="screenshots/fifo_example.png" width="600" />
   <br/><i>FIFO 알고리즘 실행 예시</i>
 </p>
-
-<p align="center">
-  <img src="screenshots/lru_example.png" width="600" />
-  <br/><i>LRU 알고리즘 실행 예시</i>
-</p>
-
-> 모든 이미지는 `screenshots/` 폴더에 저장해두세요.
 
 ---
 
@@ -97,15 +88,5 @@ java -cp . --module-path /path/to/javafx-sdk/lib --add-modules javafx.controls M
 
 ## 👨‍💻 Contributors
 
-- 김민재 (22112043)
-- 박대형 (22213482)
-
----
-
-## 📈 향후 개선 방향
-
-- 통계 기반 알고리즘 확장 (2-gram, 마르코프 모델)
-- 알고리즘 성능 로그 저장 및 불러오기
-- 웹 기반 버전 또는 모바일 앱 전환 고려
-
----
+- 김민재
+- 박대형
